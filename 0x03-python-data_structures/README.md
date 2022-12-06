@@ -20,4 +20,3 @@ Files | Description
 [lists.h](./lists.h) | Header file for the C program
 [100-print_python_list_info.c](./100-print_python_list_info.c) | C function to compile in a shared library that prints info on a Python list
 [100-test_lists.py](./100-test_lists.py) | Python script to test the C function above
-
